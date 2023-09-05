@@ -1,7 +1,7 @@
 ## Running VEX AI Example Programs on Jetson
 **How it works and how to use them together.**
 
-Make sure you have `VAIC_23_24` pulled from GitHub **AND** ensure you followed steps 18-20 above to install the vexai service.
+Make sure you are using a **VEXAI** SD card image or have built from source following all steps in the JetsonImages folder.
 
 **Upon start up, your Jetson (if installed with the correct image) will automatically run `overunder.py` in the background. If you wish to stop it from running in the background, open a terminal and enter: `sudo systemctl stop vexai`. This will stop this session of the service but if you restart your Jetson, it will restart the code in the background again. 
 
@@ -26,7 +26,7 @@ The *image_processing* method in model.py handles a weird quirk of the Intel Rea
 
 You can see below a sample of the rendering the model was trained off of to better understand the range of green, blue, and red colors it will look for in real life.  
 
-![Over Under](Images/image.jpg)
+![Over Under](image.jpg)
 
 **GPS and Intel RealSense Camera Offsets:**
 

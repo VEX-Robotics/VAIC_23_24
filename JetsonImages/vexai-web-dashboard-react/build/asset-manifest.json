@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b90b16b.css",
+    "main.js": "/static/js/main.d989671b.js",
+    "static/media/Robot-Top.png": "/static/media/Robot-Top.d1648a9c5718335fee20.png",
+    "static/media/Field-Top-NoDriverStations.png": "/static/media/Field-Top-NoDriverStations.60203c2a1b0844cf3848.png",
+    "static/media/Green.png": "/static/media/Green.9b426a04f5662c4d57e4.png",
+    "static/media/Blue.png": "/static/media/Blue.efc279b944bd4dfbb215.png",
+    "static/media/compass.png": "/static/media/compass.e32298b9ad4b9e2b1ded.png",
+    "static/media/Red.png": "/static/media/Red.1782956abefe361af4ee.png",
+    "static/media/vex_ai_logo_black.png": "/static/media/vex_ai_logo_black.bf6a004445f06bd58032.png",
+    "static/media/ruler.png": "/static/media/ruler.c29474202f6b22c6c105.png",
+    "static/media/vex_ai_logo_white.png": "/static/media/vex_ai_logo_white.d1b145737383a90f6020.png",
+    "index.html": "/index.html",
+    "main.5b90b16b.css.map": "/static/css/main.5b90b16b.css.map",
+    "main.d989671b.js.map": "/static/js/main.d989671b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b90b16b.css",
+    "static/js/main.d989671b.js"
+  ]
+}
