@@ -102,7 +102,7 @@ python3 -m pip install --upgrade Pillow
 
 **BEFORE PROCEEDING, MAKE SURE YOU FOLLOW THE STEPS TO SET-UP THE VEX AI WEB DASHBOARD**
 
-[Install NodeJS and Build the Server](#set-up-the-vex-ai-web-dashboard)
+[Install NodeJS and Build the Server](../JetsonWebDashboard/README.md)
 
 **Navigate into the Scripts folder within the source directory (`cd Scripts`)**
 
@@ -117,8 +117,6 @@ python3 -m pip install --upgrade Pillow
 ***The python script running object detection will now run in the background upon start up***
 
 **Now, re-boot your Jetson**
-
-**Follow the instructions to set-up the VEX AI Web Dashboard [here](../JetsonWebDashboard/README.md)**
 
 ---
 
