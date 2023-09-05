@@ -4,7 +4,7 @@
 SCRIPT_DIR="$(dirname "$0")"
 
 # Navigate to the desired directory
-cd "$SCRIPT_DIR/../../vexai-web-dashboard-react-main"
+cd "$SCRIPT_DIR/../../JetsonWebDashboard/vexai-web-dashboard-react"
 
 # Serve the build directory in the background
 serve -s build &
