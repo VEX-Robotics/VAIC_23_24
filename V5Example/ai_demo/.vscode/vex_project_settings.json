@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "ai_demo",
+		"slot": 1,
+		"description": "Empty V5 C++ Project",
+		"platform": "V5",
+		"creationDate": "Wed, 12 Jul 2023 16:29:41 GMT",
+		"language": "cpp",
+		"sdkVersion": "V5_20220726_10_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	},
+	"extension": {
+		"version": "0.4.3",
+		"json": 1
+	}
+}
