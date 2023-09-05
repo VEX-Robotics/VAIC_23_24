@@ -21,6 +21,7 @@ sudo apt install npm
 sudo npm cache clean -f
 sudo npm install -g n
 sudo n 16
+sudo npm install -g serve
 ```
 
 **Navigate to the folder containing the web dashboard (`vexai-web-dashboard-react`)**
@@ -29,7 +30,6 @@ sudo n 16
 
 To build the WebServer:
 - Run `npm run build` to build the react app
-- Run `sudo npm install -g serve` to install the serve npm package. 
 - At the root of the repository, run `serve -s build` to serve the static build files
 - Navigate to `http://10.42.0.1:3000/#/` in a browser connected to your Jetson Nano
 
