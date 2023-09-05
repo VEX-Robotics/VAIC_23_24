@@ -4,11 +4,11 @@ Download the image from this GitHub repository. The most up-to-date image is in 
 You will need the following pre-requesities:
 
 1. Download, install, and launch [Etcher](https://www.balena.io/etcher). 
-2. A formatted SD-card that is at least **least 32GB**.
+2. A formatted SD-card that is at **least 32GB**.
 
 In Etcher, select the `VAIC_23_24.img.gz` from your download as the image. Pick the correct target to Flash to and then Flash using Etcher.
 
-You should now be able to slot your SD card into your NVIDIA Jetson Nano.
+You should now be able to slot your SD card into your NVIDIA Jetson Nano and it weill start running the VEX AI system.
 
 
 ## Build the VEX AI System from Source
