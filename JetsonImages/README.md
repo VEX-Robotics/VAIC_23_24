@@ -8,7 +8,9 @@ You will need the following pre-requesities:
 
 In Etcher, select the `VAIC_23_24.img.gz` from your download as the image. Pick the correct target to Flash to and then Flash using Etcher.
 
-You should now be able to slot your SD card into your NVIDIA Jetson Nano and it weill start running the VEX AI system.
+You should now be able to slot your SD card into your NVIDIA Jetson Nano and it will start running the VEX AI system.
+
+The password to the Jetson (should you need to bring up the display and change anything) is "password".
 
 
 ## Build the VEX AI System from Source
