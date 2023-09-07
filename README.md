@@ -6,7 +6,7 @@ JetsonExample contains the default code that powers the VEX AI system, from proc
 
 ## [JetsonImages](./JetsonImages/README.md)
 
-JetsonImages is where you will find the most up-to-date image of the NVIDIA Jetson Nano-- Instructions on how to install the SD card image and instructions on building from source.
+JetsonImages is where you will find how to get the most up-to-date image of the NVIDIA Jetson Nano-- Instructions on how to install the SD card image and instructions on building from source.
 
 ## [JetsonWebDashboard](./JetsonWebDashboard/README.md)
 
