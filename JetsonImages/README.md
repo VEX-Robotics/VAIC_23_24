@@ -1,5 +1,5 @@
 ## Use the VEXAI Jetson Nano Image
-Download the Jetson OS image from this [link](https://content.vexrobotics.com/V5AI/Images/Jetson/VAIC2324_090623.gz).
+Download the Jetson OS image from this [link](https://content.vexrobotics.com/V5AI/Images/Jetson/VAIC2324_090623.gz). NOTE: This image is quite large so it may take some time to download.
 
 You will need the following pre-requesities:
 
